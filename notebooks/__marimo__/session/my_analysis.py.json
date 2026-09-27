@@ -1,0 +1,35 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "6cdaa34da477ce019b80404fa9f8f9c4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "(20640, 8) (20640,)\n['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "Qync",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
