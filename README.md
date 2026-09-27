@@ -17,14 +17,8 @@
 This project introduces **linear regression**, the process of
 fitting a model to data and using it to make predictions.
 
-Think about two variables that might be related:
+It allows one to use one variable to see if it predicts another variable in the data set.
 
-- Does study time predict exam scores?
-- Does temperature predict energy usage?
-- Does advertising spend predict revenue?
-
-Your goal: run the example, read the code,
-and apply the same approach to a dataset and question of your own choosing.
 
 For data suggestions, please see [data/raw/README.md](data/raw/README.md).
 
@@ -127,7 +121,7 @@ uv run pre-commit run --all-files
 git add -A
 uv run pre-commit run --all-files
 
-# run the penguin example: is there a linear relationship?
+# run the program: is there a linear relationship?
 uv run python -m datafun.app
 
 # do chores
