@@ -28,4 +28,4 @@ to get a project like this running on your machine.
 ## Initial Results
 
 After reviewing the dataset, use the code in the **src/datafun**
-folder to
+folder to examine the relationship between ACT score and college GPA.

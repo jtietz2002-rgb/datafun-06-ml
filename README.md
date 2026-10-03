@@ -176,7 +176,7 @@ Press `Ctrl c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 
 ## Data Card
 
-- [Palmer Penguins Data Card](./docs/data-card.md)
+- [Student Information Data Card](./docs/data-card.md)
 
 ## Annotations
 
