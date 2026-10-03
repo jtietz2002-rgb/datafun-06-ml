@@ -1,7 +1,5 @@
 # datafun-06-ml
 
-# [![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
-
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](./pyproject.toml)
 [![uv managed](https://img.shields.io/badge/uv-managed-DE5FE9)](https://docs.astral.sh/uv/)
 [![ty type checked](https://img.shields.io/badge/ty-type_checked-2F80ED)](https://docs.astral.sh/ty/)
@@ -18,8 +16,8 @@
 This project introduces **linear regression**, the process of
 fitting a model to data and using it to make predictions.
 
-It allows one to use one variable to see if it predicts another variable in the data set.
-
+It allows one variable to be used to see if it predicts another
+variable in the data set.
 
 For data suggestions, please see [data/raw/README.md](data/raw/README.md).
 
@@ -53,12 +51,6 @@ EVALUATE    baseline vs model on y_test
 - **src/datafun** - supporting Python code
 - **pyproject.toml** - project configuration
 - **zensical.toml** - documentation configuration
-
-## Common Workflow
-
-# Follow the
-# [step-by-step workflow guide](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
-# carefully.
 
 ## Success
 
@@ -96,9 +88,7 @@ code .
 
 ### In a VS Code terminal
 
-# These are listed for convenience.
-# For best results, follow the detailed instructions in
-# [pro-analytics-02 guide](https://denisecase.github.io/pro-analytics-02/).
+These are listed for convenience.
 
 Use VS Code menu option `Terminal` / `New Terminal` to open a **VS Code terminal**
 in the root project folder.
